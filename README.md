@@ -1,4 +1,5 @@
-This repo. contain some standard algorithms
+This repository contain some standard algorithms.
+
 1 - Sorting algorithms:
   - quick wort
   - merge sort
